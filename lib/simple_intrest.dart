@@ -5,3 +5,4 @@ void main() {
 double SI({required double? p, required double? r, required double? t}) {
   return ((p ?? 0) * (t ?? 0) * (r ?? 0)) / 100;
 }
+jhv
