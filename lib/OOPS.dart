@@ -2,6 +2,7 @@ class College {
   String name;
   String address;
 
+//constructur
   College(this.name, this.address);
 
   void output() {
